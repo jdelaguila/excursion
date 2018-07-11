@@ -1,0 +1,19 @@
+html {
+  background-color: black;
+}
+
+html {
+  text-align: center;
+  font-family: verdana;
+}
+
+h1 {
+
+  color: white;
+  font-size: 50px;
+}
+
+.unfinished_link {
+  color: aquamarine;
+  font-size: 16px;
+}
